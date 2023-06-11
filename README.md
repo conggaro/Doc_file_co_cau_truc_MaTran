@@ -1,6 +1,6 @@
-Xem giải thuật ở ngoài web thì mang tính tham khảo thôi
---> phải xem trong code nói mới chuẩn
---> vì cái file "README.md" này nó ẩn đi một số chỗ
+Xem giải thuật ở ngoài web thì mang tính tham khảo thôi<br>
+--> phải xem trong code nói mới chuẩn<br>
+--> vì cái file "README.md" này nó ẩn đi một số chỗ<br>
 
 GIẢI THUẬT ĐỂ ĐỌC FILE CÓ CẤU TRÚC NHƯ MA TRẬN C++<br>
 
