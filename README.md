@@ -1,4 +1,4 @@
-Xem giải thuật ở ngoài web thì mang tính tham khảo thôi<br> ✅✅✅
+Xem giải thuật ở ngoài web thì mang tính tham khảo thôi ✅✅✅<br>
 --> phải xem trong code nói mới chuẩn<br>
 --> vì cái file "README.md" này nó ẩn đi một số chỗ<br>
 
