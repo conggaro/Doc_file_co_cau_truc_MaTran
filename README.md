@@ -1,3 +1,7 @@
+Xem giải thuật ở ngoài web thì mang tính tham khảo thôi
+--> phải xem trong code nói mới chuẩn
+--> vì cái file "README.md" này nó ẩn đi một số chỗ
+
 GIẢI THUẬT ĐỂ ĐỌC FILE CÓ CẤU TRÚC NHƯ MA TRẬN C++<br>
 
 1. thêm thư viện fstream<br>
