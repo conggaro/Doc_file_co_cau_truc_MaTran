@@ -9,15 +9,15 @@ GIẢI THUẬT ĐỂ ĐỌC FILE CÓ CẤU TRÚC NHƯ MA TRẬN C++<br>
 -->dòng thì nó sẽ tự động chứa cột thôi<br>
   vector<int> item(0);<br>
  
-4. mở file<br>
+4. mở file .dat (hoặc .inp)<br>
   
 5. thêm toàn số 0 vào vector 2 chiều<br>
     bước 1: item.push_back(0);<br>
     bước 2: v.push_back(item);<br>
  
 6. tạo ra cái vector 1 chiều để hứng dữ liệu đọc được từ file .dat (hoặc .inp)  <br>
-    vector<int> hung_DuLieu(0);
-        int duLieu = 0;
+    vector<int> hung_DuLieu(0); <br>
+        int duLieu = 0;<br>
         
         while (file_in.eof() == false)
         {
