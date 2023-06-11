@@ -1,9 +1,6 @@
 GIẢI THUẬT ĐỂ ĐỌC FILE CÓ CẤU TRÚC NHƯ MA TRẬN C++
 
 1. thêm thư viện fstream
-  #include <iostream> <br>
-  #include <fstream>
-  #include <vector>
   
 2. tạo vector 2 chiều
   vector<vector<int>> v(0, vector<int>(0, 0));
@@ -33,7 +30,7 @@ GIẢI THUẬT ĐỂ ĐỌC FILE CÓ CẤU TRÚC NHƯ MA TRẬN C++
             hung_DuLieu.push_back(duLieu);
         }
   
-7. gán giá trị trong vector 1 chiều cho vector 2 chiều
-    --> mấu chốt là tạo 1 cái index riêng cho vector 1 chiều thôi
-    --> còn cái vector 2 chiều thì cứ tăng i, j như bình thường
+7. gán giá trị trong vector 1 chiều cho vector 2 chiều <br>
+    --> mấu chốt là tạo 1 cái index riêng cho vector 1 chiều thôi<br>
+    --> còn cái vector 2 chiều thì cứ tăng i, j như bình thường<br>
   
